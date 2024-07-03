@@ -17,7 +17,7 @@ Minha trajetória combina uma sólida formação em engenharia com uma especiali
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carlosmontealto&repo=VendasCRUD&theme=dark)](https://github.com/carlosmontealto/VendasCRUD)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carlosmontealto&repo=VendasCRUD&theme=dark)](https://github.com/carlosmontealto/fsw-foods)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carlosmontealto&repo=fsw-foods&theme=dark)](https://github.com/carlosmontealto/fsw-foods)
 
 ### Linguagens utilizadas
 
